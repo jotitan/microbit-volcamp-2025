@@ -4,7 +4,7 @@
 
 [Plateforme de développement](https://makecode.microbit.org/)
 
-[Support de présentation](./devoxx_2025_support_iot_microbit.pdf)
+[Support de présentation](./presentation_volcamp_2025.pdf)
 
 L'atelier se décompose en plusieurs parties : 
 * Une présentation de la carte micro:bit. 
